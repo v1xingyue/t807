@@ -4,4 +4,5 @@ pub fn hello() {
 }
 
 pub mod cli;
+pub mod info;
 pub mod sui;
