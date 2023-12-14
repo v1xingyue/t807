@@ -10,3 +10,4 @@ authors = ["v1xingyue <qixingyue@gmail.com>"]
 clap = { version = "4.4.11", features = ["derive"] }
 env_logger = "0.10.1"
 log = "0.4.20"
+sui-rust-operator = "0.1.8"
